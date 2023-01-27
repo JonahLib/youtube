@@ -1,0 +1,41 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 350px;
+    padding: 20px;;
+}
+
+.thumbnail{
+    width: 400px;
+    border-radius: 20px;
+    max-width: 400px;
+}
+
+.contentDetails{
+    padding-top: 8px;
+    display: flex;
+    gap: 10px;
+}
+
+.stats{
+    display: flex;
+}
+
+.title{
+    font-size: 26px;
+}
+
+.pfp{
+    height: 40px;
+    border-radius: 40px;
+}
+
+.channelName{
+    padding-left: 60px;
+}
+
+.stats{
+    padding-left: 60px;
+    gap: 10px;
+}
